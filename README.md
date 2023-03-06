@@ -1,4 +1,6 @@
-### Hi there 👋
+# Arthur Medeiros
+
+**`Dev Front-End Júnior / Estudante de Game Design`**
 
 <!--
 **arth-medeiros/arth-medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
