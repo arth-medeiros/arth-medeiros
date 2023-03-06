@@ -24,7 +24,7 @@ Também estudo game design nas horas vagas e tenho um pouco de experiência na �
 
 <details>
 <summary><h3>🧑 Bio</h3></summary>
-Prazer! Meu nome é Arthur, tenho 23 anos, sou mineiro, apaixonado por jogos e uma boa cerveja 🍺/
+Prazer! Meu nome é Arthur, tenho 23 anos, sou mineiro, apaixonado por jogos e uma boa cerveja 🍺<br>
 Sempre fui uma pessoa muito curiosa com tudo, sempre buscando aprender e descobrir coisas novas. Isso acabou fazendo com que eu rapidamente me interessasse pelo processo de criação das coisas que mais me fascinam: Arte, Literatura e Tecnologia. Esse interesse acabou me proporcionando ótimas experiências e abriu muitas portas das quais eu sempre tento aproveitar ao máximo.
 </details>
 
@@ -32,7 +32,7 @@ Sempre fui uma pessoa muito curiosa com tudo, sempre buscando aprender e descobr
 
 <details>
 <summary><h3>👨‍💻 Programação e Eu</h3></summary>
-Minha jornada na área de programação começou com minha entrada no curso de Jogos Digitais na PUC-MG onde tive meu primeiro contato com C#. Inicialmente me senti um pouco intimidado mas acabei pegando muito gosto pela coisa./
-No início de 2022 tive a oportunidade de me inscrever no curso de desenvolvimento de softwares na Trybe onde acabei terminando de me apaixonar pela área e depois de muito esforço e dedicação conluí o módulo de desenvolvimento front-end./
+Minha jornada na área de programação começou com minha entrada no curso de Jogos Digitais na PUC-MG onde tive meu primeiro contato com C#. Inicialmente me senti um pouco intimidado mas acabei pegando muito gosto pela coisa.<br>
+No início de 2022 tive a oportunidade de me inscrever no curso de desenvolvimento de softwares na Trybe onde acabei terminando de me apaixonar pela área e depois de muito esforço e dedicação conluí o módulo de desenvolvimento front-end.<br>
 Agora estou em busca de novas oportunidades para cada vez mais me aprofundar na área e aprender ainda mais!
 </details>
