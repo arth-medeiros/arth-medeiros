@@ -4,6 +4,18 @@
 
 Bem vindo ao meu perfil do Github! Sou um Dev Front-End tentando iniciando minha jornada na área de programação!\
 Também estudo game design nas horas vagas e tenho um pouco de experiência na área de design grafico 😄
+
+---
+
+### 🧰 Ferramentas e Linguagens
+
+<img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+          
 <!--
 **arth-medeiros/arth-medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
