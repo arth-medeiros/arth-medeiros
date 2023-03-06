@@ -1,7 +1,9 @@
 # Arthur Medeiros
 
-**`Dev Front-End Júnior / Estudante de Game Design`**
+**`🌱 Dev Front-End Júnior / 📚 Estudante de Game Design`**
 
+Bem vindo ao meu perfil do Github! Sou um Dev Front-End tentando iniciando minha jornada na área de programação!
+Também estudo game design nas horas vagas e tenho um pouco de experiência na área de design grafico 😄
 <!--
 **arth-medeiros/arth-medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
