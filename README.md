@@ -22,7 +22,7 @@ Também estudo game design nas horas vagas e tenho um pouco de experiência na �
 #
 
 <details>
-<summary>⚙️ Meus Projetos </summary>
+<summary>### ⚙️ Meus Projetos </summary>
 <ul>
 <li>test</li>
 <li>test</li>
