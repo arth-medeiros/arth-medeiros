@@ -10,7 +10,7 @@ Também estudo game design nas horas vagas e tenho um pouco de experiência na �
 ### 🧰 Ferramentas e Linguagens
 
 <img align="left" width="35px" style="padding-right:10px;" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-![<img align="left" width="35px" style="padding-right:10px;" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />]
+[![<img align="left" width="35px" style="padding-right:10px;" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />]]
           
 <!--
 **arth-medeiros/arth-medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
