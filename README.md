@@ -17,7 +17,19 @@ Também estudo game design nas horas vagas e tenho um pouco de experiência na �
 <img align="left" width="35px" style="padding-right:10px;" alt="ps" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" width="35px" style="padding-right:10px;" alt="ai" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img align="left" width="35px" style="padding-right:10px;" alt="ae" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
-          
+<br />
+
+#
+
+<details>
+<summary>⚙️ Meus Projetos </summary>
+<ul>
+<li>test</li>
+<li>test</li>
+<li>test</li>
+<li>test</li>
+</ul>
+</details>
 <!--
 **arth-medeiros/arth-medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
