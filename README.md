@@ -2,8 +2,8 @@
 
 **`🌱 Dev Front-End Júnior / 📚 Estudante de Game Design`**
 
-Bem vindo ao meu perfil do Github! Sou um Dev Front-End tentando iniciando minha jornada na área de programação!\
-Também estudo game design nas horas vagas e tenho um pouco de experiência na área de design grafico 😄
+Bem vindo ao meu perfil do Github! Sou um Dev Front-End iniciando minha jornada como profissional na área de programação!\
+Também estudo game design nas horas vagas e tenho um pouco de experiência na área de design grafico!
 
 ---
 
@@ -14,6 +14,7 @@ Também estudo game design nas horas vagas e tenho um pouco de experiência na �
 <img align="left" width="35px" style="padding-right:10px;" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" width="35px" style="padding-right:10px;" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="35px" style="padding-right:10px;" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" width="35px" style="padding-right:10px;" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" width="35px" style="padding-right:10px;" alt="ps" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" width="35px" style="padding-right:10px;" alt="ai" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img align="left" width="35px" style="padding-right:10px;" alt="ae" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
@@ -22,25 +23,16 @@ Também estudo game design nas horas vagas e tenho um pouco de experiência na �
 #
 
 <details>
-<summary><h3>⚙️ Meus Projetos</h3></summary>
-<ul>
-<li>test</li>
-<li>test</li>
-<li>test</li>
-<li>test</li>
-</ul>
+<summary><h3>🧑 Bio</h3></summary>
+Prazer! Meu nome é Arthur, tenho 23 anos, sou mineiro, apaixonado por jogos e uma boa cerveja 🍺/
+Sempre fui uma pessoa muito curiosa com tudo, sempre buscando aprender e descobrir coisas novas. Isso acabou fazendo com que eu rapidamente me interessasse pelo processo de criação das coisas que mais me fascinam: Arte, Literatura e Tecnologia. Esse interesse acabou me proporcionando ótimas experiências e abriu muitas portas das quais eu sempre tento aproveitar ao máximo.
 </details>
-<!--
-**arth-medeiros/arth-medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><h3>👨‍💻 Programação e Eu</h3></summary>
+Minha jornada na área de programação começou com minha entrada no curso de Jogos Digitais na PUC-MG onde tive meu primeiro contato com C#. Inicialmente me senti um pouco intimidado mas acabei pegando muito gosto pela coisa./
+No início de 2022 tive a oportunidade de me inscrever no curso de desenvolvimento de softwares na Trybe onde acabei terminando de me apaixonar pela área e depois de muito esforço e dedicação conluí o módulo de desenvolvimento front-end./
+Agora estou em busca de novas oportunidades para cada vez mais me aprofundar na área e aprender ainda mais!
+</details>
