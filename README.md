@@ -2,8 +2,8 @@
 
 **`🌱 Dev Front-End Júnior / 📚 Estudante de Game Design`**
 
-Bem vindo ao meu perfil do Github! Sou um Dev Front-End iniciando minha jornada como profissional na área de programação!\
-Também estudo game design nas horas vagas e tenho um pouco de experiência na área de design grafico!
+Bem vindo ao meu perfil do Github! Sou um Dev Front-End iniciando minha jornada como profissional na área de programação.\
+Também estudo game design nas horas vagas e tenho experiência na área de design grafico.
 
 ---
 
@@ -33,6 +33,6 @@ Sempre fui uma pessoa muito curiosa com tudo, sempre buscando aprender e descobr
 <details>
 <summary><h3>👨‍💻 Programação e Eu</h3></summary>
 Minha jornada na área de programação começou com minha entrada no curso de Jogos Digitais na PUC-MG onde tive meu primeiro contato com C#. Inicialmente me senti um pouco intimidado mas acabei pegando muito gosto pela coisa.<br>
-No início de 2022 tive a oportunidade de me inscrever no curso de desenvolvimento de softwares na Trybe onde acabei terminando de me apaixonar pela área e depois de muito esforço e dedicação conluí o módulo de desenvolvimento front-end.<br>
+No início de 2022 tive a oportunidade de me inscrever no curso de desenvolvimento de softwares da Trybe onde definitivamente me apaixonei pela área e depois de muito esforço e dedicação conluí o módulo de desenvolvimento front-end.<br>
 Agora estou em busca de novas oportunidades para cada vez mais me aprofundar na área e aprender ainda mais!
 </details>
